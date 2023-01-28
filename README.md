@@ -36,3 +36,4 @@ python Guess_the_number.py
 
 This is a simple program and can be used to learn basics of python programming and loops. Feel free to use and customize the code to suit your needs.
 
+##### :)
